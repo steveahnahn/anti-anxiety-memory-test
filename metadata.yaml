@@ -1,0 +1,11 @@
+title: "Anti‑Anxiety Drug & Mood‑Primed Memory Recall Dataset"
+creators:
+  - name: "Steve Ahn"
+    affiliation: "Blizzard Entertainment"
+description: >
+  CSV and experiment protocol for a 3×2 factorial study of benzodiazepines
+  and mood‑primed memory recall in a virtual human environment. Widely used
+  in Kaggle competitions (5 k+ downloads).
+keywords: ["benzodiazepine", "memory", "virtual clinical trial", "kaggle"]
+license: CC-BY-4.0
+version: "1.0"
